@@ -36,18 +36,6 @@ Landing page institucional desenvolvida com foco em uma experiência mobile-firs
 
 🔗 [Acessar o site](https://aamsconsultoria.com.br/)
 
-### 🛡️ CodaSeguroVibeCode (CSVC)
-
-Plataforma em desenvolvimento voltada à segurança no desenvolvimento de software com IA, com foco em *vibe coding*. A proposta é ajudar desenvolvedores a ampliar seu conhecimento técnico, compreender vulnerabilidades e adotar práticas mais seguras ao criar aplicações com auxílio de inteligência artificial.
-
-- **Front-end:** Angular e TypeScript
-- **Back-end:** C# e ASP.NET Core
-- **Foco:** Segurança de aplicações, aprendizado técnico e desenvolvimento seguro
-- **Objetivo:** Tornar conceitos de segurança mais acessíveis para quem desenvolve com IA
-
-**Status:** Em desenvolvimento
-
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
