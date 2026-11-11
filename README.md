@@ -51,12 +51,12 @@ Plataforma em desenvolvimento voltada à segurança no desenvolvimento de softwa
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesleyaquinodev&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Wesley" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyaquinodev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesleyaquinodev1&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas do GitHub de Wesley" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyaquinodev1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wesleyaquinodev&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+  <img src="https://streak-stats.demolab.com?user=wesleyaquinodev1&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ---
