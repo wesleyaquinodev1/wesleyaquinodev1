@@ -21,7 +21,7 @@ Tenho interesse em desenvolvimento Back-end e Front-end, arquitetura de software
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,angular,ts,js,html,css,sqlite,git,github,docker,linux,aws,cloudflare" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,angular,ts,node,js,html,css,sqlite,git,github,docker,linux,aws,cloudflare" alt="Tecnologias e ferramentas" />
 </p>
 
 ## 🚀 Projetos em destaque
