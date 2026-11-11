@@ -21,7 +21,7 @@ I'm interested in backend and frontend development, software architecture, progr
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,angular,ts,js,html,css,sqlserver,sqlite,git,github,docker,linux,aws,cloudflare" alt="Technologies and tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,angular,ts,js,html,css,sqlite,git,github,docker,linux,aws,cloudflare" alt="Technologies and tools" />
 </p>
 
 🚀 Featured Projects
